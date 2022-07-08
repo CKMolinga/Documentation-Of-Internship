@@ -22,4 +22,4 @@
 - Assigned a Task to Create a backend API with Nest js that integrates with Pay Unit endpoints, and create a React front end app that consumes the API to simulate payment processing.
 
 ### Day 5:
-- Started a Nest js tutorial
+- Started a Nest js tutorial; Outcomes: Learned Modules, Controllers, Services, Decorators
