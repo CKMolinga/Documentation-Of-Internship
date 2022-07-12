@@ -23,3 +23,11 @@
 
 ### Day 5:
 - Started a Nest js tutorial; Outcomes: Learned Modules, Controllers, Services, Decorators
+
+## Week 2
+### Day 1:
+- Continued with Nest JS tutorial
+- Given a login UI Design to code, after which i hosted on GH-Pages and submited
+
+### Day 2:
+-Nest Js Tutorial
