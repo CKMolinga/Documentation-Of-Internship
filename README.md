@@ -31,3 +31,9 @@
 
 ### Day 2:
 -Nest Js Tutorial
+
+### Day 3:
+-Nest Js Tutorial
+- Made changes to new form design
+- Set up project for PayUnit REST API
+- Created landing page for REST API project
