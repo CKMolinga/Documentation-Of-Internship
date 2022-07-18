@@ -37,3 +37,15 @@
 - Made changes to new form design
 - Set up project for PayUnit REST API
 - Created landing page for REST API project
+
+### Day 4:
+-Nest JS Tutorial Expense App
+- Worked on PayUnit Project
+-Created reset password page for login form
+
+### Day 5: 
+-Worked on PayUnit Project
+
+## Week 3
+### Day 1
+- Did a demo presentation of the PayUnit project and was given corrections to implement
