@@ -47,5 +47,8 @@
 -Worked on PayUnit Project
 
 ## Week 3
-### Day 1
+### Day 1:
 - Did a demo presentation of the PayUnit project and was given corrections to implement
+
+### Day 2:
+- Worked on my project, and succesfully hit the initiate payment endpoint
