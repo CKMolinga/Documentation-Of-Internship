@@ -52,3 +52,7 @@
 
 ### Day 2:
 - Worked on my project, and succesfully hit the initiate payment endpoint
+
+### Day 3:
+- Worked on my project, and succesfully hit the get psps endpoint
+- Did a demo presentation of the login form
