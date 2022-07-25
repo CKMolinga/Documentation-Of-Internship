@@ -59,3 +59,11 @@
 
 ### Day 4:
 -Worked on my project, initiate get status endpoint
+
+### Day 5:
+-Worked on my project, get status
+
+## Week 4
+
+### Day 1:
+-Worked on my project. Used a Cron Job to scgedule at created a function to check status every 2 secs
