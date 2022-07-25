@@ -56,3 +56,6 @@
 ### Day 3:
 - Worked on my project, and succesfully hit the get psps endpoint
 - Did a demo presentation of the login form
+
+### Day 4:
+-Worked on my project, initiate get status endpoint
