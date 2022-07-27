@@ -67,3 +67,9 @@
 
 ### Day 1:
 -Worked on my project. Used a Cron Job to scgedule at created a function to check status every 2 secs
+
+### Day 2: 
+-Worked on my project. Attended a presentation on dependency injection
+
+### Day 3: 
+-Worked on my project. Connected backend application to frontend.
