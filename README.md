@@ -73,3 +73,6 @@
 
 ### Day 3: 
 -Worked on my project. Connected backend application to frontend.
+
+### Day4:
+-Did not go to the office. Stayed at home and worked on my presentation
