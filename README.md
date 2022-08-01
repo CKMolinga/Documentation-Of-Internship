@@ -80,3 +80,8 @@
 ### Day 5:
 -Worked on my presentation
 -Worked on project
+
+## Week 5
+
+### Day 1:
+-Worked on my project. Practiced for a presentation
