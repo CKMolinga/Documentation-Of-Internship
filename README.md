@@ -85,3 +85,8 @@
 
 ### Day 1:
 -Worked on my project. Practiced for a presentation
+
+### Day 2:
+-Reviewed React useEffect
+-Test application
+-Practice for my demo at the academy
