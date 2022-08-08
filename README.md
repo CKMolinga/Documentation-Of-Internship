@@ -105,3 +105,6 @@
 ## Week 6
 
 ### Day 1:
+- Worked on my portfolio website
+- React tutorial
+- Ponda figma design
