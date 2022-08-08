@@ -90,3 +90,18 @@
 -Reviewed React useEffect
 -Test application
 -Practice for my demo at the academy
+
+### Day 3:
+- Did a demo on the login form
+- Tested my application
+- Presented my projected
+
+### Day 4:
+-Absent
+
+### Day 5:
+-Worked on my portfolio website
+
+## Week 6
+
+### Day 1:
