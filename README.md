@@ -108,3 +108,13 @@
 - Worked on my portfolio website
 - React tutorial
 - Ponda figma design
+
+## Day 2:
+- Practiced for my workshop
+- Worked on my portfolio website
+
+## Day 3:
+- Did a workshop on HTML and CSS at the Academy
+
+## Day 4:
+- Worked on React projects
