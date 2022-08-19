@@ -118,3 +118,29 @@
 
 ## Day 4:
 - Worked on React projects
+
+## Day 5:
+-React tutorial
+
+### Week 7
+
+## Day 1:
+- React tutorial & projects
+- Built a React landing page for a payment application
+
+## Day 2:
+- React tutorial & projects
+- Granted access to Pay-Unit version-2 codebase
+- Studied Payunit code base and folder structure
+
+## Day 3:
+- React tutorial & projects
+- Figma design for Audizic
+- Figma dsign for Ponda
+- Studied Payunit code base and folder structure
+
+## Day 4:
+- Started working on Pay unit PSPs
+
+## Day 5:
+- Worked on Pay Unit Applications
